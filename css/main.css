@@ -1,0 +1,90 @@
+body{
+    background-color: #F8FAFC;
+    font-family: "Montserrat", sans-serif;
+}
+
+span{
+    color: #6F8DD9  ;
+}
+.navbar-brand{
+    font-size: 32px;
+}
+.card-footer{
+    background-color: #1B1B1B;
+}
+textarea{
+    resize: none;
+}
+.grad{
+    background: rgb(111,141,217);
+    background: linear-gradient(180deg, rgba(111,141,217,1) 0%, rgba(54,119,224,1) 100%);
+    color: #FFFFFF;
+}
+.grad hr{
+    border: 1px solid #FFFFFF;
+}
+.btn{
+    border-style: none;
+    background-color: #6F8DD9;
+    padding: 15px 30px;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.btn:hover{
+    color: #FFFFFF;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 35px;
+}
+.nav-link{
+    color: black;
+}
+.card-body{
+    height: 370px;
+}
+.card{
+    border-style: none;
+    box-shadow: 1px 1px 29px -11px rgba(0,0,0,0.75);
+    margin-bottom: 15px;
+}
+.reason, .speak, footer{
+    margin-top: 150px;
+}
+.reason img{
+    border-radius: 4%;
+    margin-bottom: 15px;
+}
+.cards{
+    margin-top: 75px;
+}
+.card img{
+    padding-bottom: 50px;
+}
+.main{
+    margin-top: 120px;
+}
+.main hr, .reason hr, .speak hr{
+    width: 100px;
+}
+hr{
+    width: 50px;
+    border-radius: 50px;
+    border: 1px solid #6F8DD9;
+    opacity: 100%;
+}
+.speak p{
+    color: z;
+    margin-bottom: 40px;
+}
+.phone{
+    font-weight:bold;
+    color: #000;
+    text-decoration: none;
+}
